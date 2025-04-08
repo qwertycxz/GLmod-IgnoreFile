@@ -13,11 +13,12 @@ return {
 		local submitItem = steam.SubmitItem
 		--- @type submitItem
 		getmetatable(steam).__index.SubmitItem = function(self, item, ...)
-			local file = io.open(mod.installPath .. '/.workshopignore')
+			local open = rawget(_G, 'io').open
+			local file = open(mod.installPath .. '/.workshopignore')
 			if file then
 				file:close()
 				local tmp = os.tmpname()
-				file = io.open(tmp)
+				file = open(tmp)
 				if file then
 					file:close()
 					os.remove(tmp)
@@ -25,7 +26,9 @@ return {
 				else
 					os.execute('powershell -File ' .. mod.installPath .. '/src/filterIgnore.ps1 ' .. item.installPath .. ' ' .. tmp)
 				end
-				item.installPath = tmp
+				item = table.extend(item){
+					installPath = tmp,
+				}
 			end
 			submitItem(self, item, ...)
 		end

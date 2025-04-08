@@ -4,16 +4,16 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/qwertycxz/GLmod-IgnoreFile)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/qwertycxz/GLmod-IgnoreFile)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/qwertycxz/GLmod-IgnoreFile)
-[![Steam File Size](https://img.shields.io/steam/size/114514?label=steam%20file%20size)](https://steamcommunity.com/workshop/filedetails/?id=114514)
+[![Steam File Size](https://img.shields.io/steam/size/3460213396?label=steam%20file%20size)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
 ![GitHub issues](https://img.shields.io/github/issues/qwertycxz/GLmod-IgnoreFile)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/qwertycxz/GLmod-IgnoreFile)
-[![Steam Views](https://img.shields.io/steam/views/114514)](https://steamcommunity.com/workshop/filedetails/?id=114514)
-[![Steam Downloads](https://img.shields.io/steam/downloads/114514)](https://steamcommunity.com/workshop/filedetails/?id=114514)
-[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/114514)](https://steamcommunity.com/workshop/filedetails/?id=114514)
-[![Steam Favorites](https://img.shields.io/steam/favorites/114514)](https://steamcommunity.com/workshop/filedetails/?id=114514)
+[![Steam Views](https://img.shields.io/steam/views/3460213396)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
+[![Steam Downloads](https://img.shields.io/steam/downloads/3460213396)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3460213396)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
+[![Steam Favorites](https://img.shields.io/steam/favorites/3460213396)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/qwertycxz)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qwertycxz/GLmod-IgnoreFile)
-[![Steam Update Date](https://img.shields.io/steam/update-date/114514)](https://steamcommunity.com/workshop/filedetails/?id=114514)
+[![Steam Update Date](https://img.shields.io/steam/update-date/3460213396)](https://steamcommunity.com/workshop/filedetails/?id=3460213396)
 
 A [Griftlands](https://store.steampowered.com/app/601840) mod.
 
@@ -24,7 +24,7 @@ When you are uploading a mod to Steam Workshop, you may want to ignore some file
 **Another notice**: This mod is only tested on Windows. If you are using Linux or MacOS, please let me know if it works for you.
 ## Install
 ### Steam Workshop (Recommended)
-Subscribe the mod in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=114514), and it will be updated automatically.
+Subscribe the mod in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3460213396), and it will be updated automatically.
 ### Manually
 Follow the [instructions](https://forums.kleientertainment.com/forums/topic/116914-early-mod-support).
 1. Go to `%USERPROFILE%/AppData/Roaming/Klei/Griftlands` or `%USERPROFILE%/AppData/Roaming/Klei/Griftlands_testing` on your computer.
