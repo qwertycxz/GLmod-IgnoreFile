@@ -35,10 +35,12 @@ Follow the [instructions](https://forums.kleientertainment.com/forums/topic/1169
 After installing the mod, you can create a `.workshopignore` file in the mod root directory. The format is same as `.gitignore`.
 ### How does it work?
 1. The mod will read the `.workshopignore` file in the mod root directory. If the file does not exist, it will upload the mod without anything change.
-2. When you upload the mod, the mod will copy the files and directories that are not matched by the patterns in the `.workshopignore` file to `$TEMP`. This is done by `git ls-files`.
-3. The mod will then upload the copied files and directories to Steam Workshop.
+2. When you upload the mod, the mod will hard-link the files and directories that are not matched by the patterns in the `.workshopignore` file to `$TEMP`. This is done by `git ls-files`.
+3. The mod will then upload the linked files and directories to Steam Workshop.
 ## Changelog
 2025/4/7: Upload the mod to Github.
+
+2025/4/9: Submit the mod to Steam Workshop.
 ## Contributor
 [@qwertycxz](https://github.com/qwertycxz)
 ## How could I contribute?
