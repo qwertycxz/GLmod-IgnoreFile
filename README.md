@@ -1,6 +1,6 @@
 # GLmod-IgnoreFile
 ![GitHub](https://img.shields.io/github/license/qwertycxz/GLmod-IgnoreFile)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/qwertycxz/GLmod-IgnoreFile/main)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/qwertycxz/GLmod-IgnoreFile/master)
 ![GitHub top language](https://img.shields.io/github/languages/top/qwertycxz/GLmod-IgnoreFile)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/qwertycxz/GLmod-IgnoreFile)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/qwertycxz/GLmod-IgnoreFile)
